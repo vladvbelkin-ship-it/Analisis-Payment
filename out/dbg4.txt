@@ -1,0 +1,8 @@
+OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+/usr/local/lib/python3.12/site-packages/openpyxl/packaging/relationship.py:118: UserWarning: xl/pivotCache/_rels/pivotCacheDefinition1.xml.rels contains invalid dependency definitions
+  warn(msg)
+Учет Вольная.xlsx телефонов: 0 0
+Учет Удальцова.xlsx телефонов: 0 0
+alfa phones: 88 43
+совпадений телефона с клиентами: 0 уникальных: 0
+не найденных уникальных телефонов: 43

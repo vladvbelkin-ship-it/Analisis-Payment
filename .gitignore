@@ -1,0 +1,9 @@
+# Output directory
+out/
+
+# Python cache and artifacts
+__pycache__/
+*.pyc
+
+# Logs and debug files
+*.log
